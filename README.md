@@ -37,7 +37,7 @@ directory structure.
 3. Run the Composer command to install the latest version of SDK:
 
     ```sh
-    $ php composer.phar require ringcentral/ringcentral-php
+    $ php composer.phar require romandenu/ringcentral-php
     ```
 
 4. Require Composer's autoloader in your PHP script (assuming it is in the same directory where you installed Composer):
